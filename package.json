@@ -4,4 +4,7 @@
     "dependencies": {
         "peer": "^0.5.3"
     }
+    "scripts": {
+        "start": "node peer-server.js"
+    }
 }
